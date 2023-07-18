@@ -1,4 +1,3 @@
-package com.automationedge.ps.workflow.steps.excelinput.binary;
 
 import java.io.IOException;
 import java.util.ArrayList;
